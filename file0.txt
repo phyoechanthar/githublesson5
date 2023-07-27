@@ -1,2 +1,3 @@
 hello file 0
 I already bug fixed
+I already bug fixed 1
